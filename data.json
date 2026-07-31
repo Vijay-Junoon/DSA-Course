@@ -1,0 +1,121 @@
+{
+  "drive_folder": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
+  "uploads": [
+    {
+      "date": "2026-07-31",
+      "topic": "Sliding Window",
+      "category": "Arrays",
+      "difficulty": "Medium",
+      "resource_type": "PDF",
+      "title": "Sliding Window Notes",
+      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
+      "leetcode_id": "3. Longest Substring Without Repeating Characters"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "Graphs",
+      "category": "Graphs",
+      "difficulty": "Medium",
+      "resource_type": "Video",
+      "title": "BFS and DFS Video Guide",
+      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
+      "leetcode_id": "200. Number of Islands"
+    },
+    {
+      "date": "2026-07-29",
+      "topic": "SQL",
+      "category": "SQL",
+      "difficulty": "Easy",
+      "resource_type": "Notes",
+      "title": "SQL JOINs Cheat Sheet",
+      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing"
+    },
+    {
+      "date": "2026-07-28",
+      "topic": "Python",
+      "category": "Python",
+      "difficulty": "Easy",
+      "resource_type": "Cheat Sheet",
+      "title": "Python Decorators & Generators",
+      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing"
+    },
+    {
+      "date": "2026-07-27",
+      "topic": "Dynamic Programming",
+      "category": "Dynamic Programming",
+      "difficulty": "Hard",
+      "resource_type": "Practice Set",
+      "title": "0/1 Knapsack Practice Problems",
+      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
+      "leetcode_id": "416. Partition Equal Subset Sum"
+    },
+    {
+      "date": "2026-07-26",
+      "topic": "Trees",
+      "category": "Trees",
+      "difficulty": "Easy",
+      "resource_type": "PDF",
+      "title": "Binary Tree Traversals PDF",
+      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
+      "leetcode_id": "102. Binary Tree Level Order Traversal"
+    },
+    {
+      "date": "2026-07-24",
+      "topic": "Linked Lists",
+      "category": "Linked Lists",
+      "difficulty": "Medium",
+      "resource_type": "Revision Notes",
+      "title": "Fast and Slow Pointer Revision Notes",
+      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
+      "leetcode_id": "141. Linked List Cycle"
+    },
+    {
+      "date": "2026-07-23",
+      "topic": "Linked Lists",
+      "category": "Linked Lists",
+      "difficulty": "Easy",
+      "resource_type": "Notes",
+      "title": "Reverse Linked List Explanation",
+      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
+      "leetcode_id": "206. Reverse Linked List"
+    },
+    {
+      "date": "2026-07-22",
+      "topic": "Stacks",
+      "category": "Stacks",
+      "difficulty": "Medium",
+      "resource_type": "PDF",
+      "title": "Min Stack Implementation",
+      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
+      "leetcode_id": "155. Min Stack"
+    },
+    {
+      "date": "2026-07-21",
+      "topic": "Arrays",
+      "category": "Arrays",
+      "difficulty": "Easy",
+      "resource_type": "Notes",
+      "title": "Two Sum Analysis",
+      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
+      "leetcode_id": "1. Two Sum"
+    },
+    {
+      "date": "2026-07-20",
+      "topic": "SQL",
+      "category": "SQL",
+      "difficulty": "Medium",
+      "resource_type": "Practice Set",
+      "title": "Subqueries and Window Functions Practice",
+      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing"
+    },
+    {
+      "date": "2026-07-19",
+      "topic": "Python",
+      "category": "Python",
+      "difficulty": "Easy",
+      "resource_type": "Notes",
+      "title": "Python List Comprehensions Guide",
+      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing"
+    }
+  ]
+}
