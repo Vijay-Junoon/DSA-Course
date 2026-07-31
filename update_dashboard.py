@@ -72,12 +72,12 @@ def generate_quick_access(drive_folder, uploads):
     # Repository URL
     repo_url = "https://github.com/Vijay-Junoon/DSA-Course"
 
-    drive_badge = f"[![Google Drive](https://img.shields.io/badge/📂_Open_Google_Drive-12878D?style=for-the-badge&logo=googledrive&logoColor=white)]({drive_folder})"
-    star_badge = f"[![Star Repo](https://img.shields.io/badge/⭐_Star_Repository-orange?style=for-the-badge)]({repo_url})"
-    latest_badge = f"[![Latest Upload](https://img.shields.io/badge/📅_Latest_Upload-blue?style=for-the-badge)]({latest_upload_url})"
-    archive_badge = f"[![Browse Archive](https://img.shields.io/badge/📚_Browse_Archive-purple?style=for-the-badge)](#-monthly-archive)"
+    drive_badge = f"📂 [![Google Drive](https://img.shields.io/badge/Open_Google_Drive-12878D?style=for-the-badge&logo=googledrive&logoColor=white)]({drive_folder})"
+    star_badge = f"⭐ [![Star Repo](https://img.shields.io/badge/Star_Repository-orange?style=for-the-badge&logo=github)]({repo_url})"
+    latest_badge = f"📅 [![Latest Upload](https://img.shields.io/badge/Latest_Upload-blue?style=for-the-badge)]({latest_upload_url})"
+    archive_badge = f"📚 [![Browse Archive](https://img.shields.io/badge/Browse_Archive-purple?style=for-the-badge)](#-monthly-archive)"
 
-    return f"{drive_badge} &nbsp; {star_badge} &nbsp; {latest_badge} &nbsp; {archive_badge}"
+    return f"{drive_badge} &nbsp;&nbsp;&nbsp; {star_badge} &nbsp;&nbsp;&nbsp; {latest_badge} &nbsp;&nbsp;&nbsp; {archive_badge}"
 
 def generate_statistics_badges(stats):
     """Generate Shields.io badges for the statistics overview."""
