@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  📂 [![Google Drive](https://img.shields.io/badge/Open_Google_Drive-12878D?style=for-the-badge&logo=google-drive&logoColor=fff)](https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing) &nbsp;&nbsp;&nbsp; ⭐ [![Star Repo](https://img.shields.io/badge/Star_Repository-orange?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Vijay-Junoon/DSA-Course) &nbsp;&nbsp;&nbsp; 📅 [![Latest Upload](https://img.shields.io/badge/Latest_Upload-blue?style=for-the-badge&logo=google-drive&logoColor=fff)](https://drive.google.com/file/d/1wThpKwZq9GkngnoJU7wVwVwJQy8qYBGL/view?usp=sharing) &nbsp;&nbsp;&nbsp; 📚 [![Browse Archive](https://img.shields.io/badge/Browse_Archive-purple?style=for-the-badge)](#-monthly-archive)
+  📂 <a href="https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Open_Google_Drive-12878D?style=for-the-badge&logo=google-drive&logoColor=fff" alt="Google Drive" valign="middle"></a> &nbsp;&nbsp;&nbsp; ⭐ <a href="https://github.com/Vijay-Junoon/DSA-Course" target="_blank"><img src="https://img.shields.io/badge/Star_Repository-orange?style=for-the-badge&logo=github&logoColor=fff" alt="Star Repo" valign="middle"></a> &nbsp;&nbsp;&nbsp; 📅 <a href="https://drive.google.com/file/d/1wThpKwZq9GkngnoJU7wVwVwJQy8qYBGL/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Latest_Upload-blue?style=for-the-badge&logo=google-drive&logoColor=fff" alt="Latest Upload" valign="middle"></a> &nbsp;&nbsp;&nbsp; 📚 <a href="#-monthly-archive"><img src="https://img.shields.io/badge/Browse_Archive-purple?style=for-the-badge" alt="Browse Archive" valign="middle"></a>
 </p>
 
 ---
@@ -182,5 +182,5 @@ Access resources grouped by month. Click to expand.
 ---
 
 <p align="center">
-  Built automatically with Python ❤️ | Last updated: 31 Jul 2026 11:45 PM IST
+  Built automatically with Python ❤️ | Last updated: 31 Jul 2026 11:48 PM IST
 </p>

@@ -72,12 +72,12 @@ def generate_quick_access(drive_folder, uploads):
     # Repository URL
     repo_url = "https://github.com/Vijay-Junoon/DSA-Course"
 
-    drive_badge = f"📂 [![Google Drive](https://img.shields.io/badge/Open_Google_Drive-12878D?style=for-the-badge&logo=google-drive&logoColor=fff)]({drive_folder})"
-    star_badge = f"⭐ [![Star Repo](https://img.shields.io/badge/Star_Repository-orange?style=for-the-badge&logo=github&logoColor=fff)]({repo_url})"
-    latest_badge = f"📅 [![Latest Upload](https://img.shields.io/badge/Latest_Upload-blue?style=for-the-badge&logo=google-drive&logoColor=fff)]({latest_upload_url})"
-    archive_badge = f"📚 [![Browse Archive](https://img.shields.io/badge/Browse_Archive-purple?style=for-the-badge)](#-monthly-archive)"
+    drive_html = f'📂 <a href="{drive_folder}" target="_blank"><img src="https://img.shields.io/badge/Open_Google_Drive-12878D?style=for-the-badge&logo=google-drive&logoColor=fff" alt="Google Drive" valign="middle"></a>'
+    star_html = f'⭐ <a href="{repo_url}" target="_blank"><img src="https://img.shields.io/badge/Star_Repository-orange?style=for-the-badge&logo=github&logoColor=fff" alt="Star Repo" valign="middle"></a>'
+    latest_html = f'📅 <a href="{latest_upload_url}" target="_blank"><img src="https://img.shields.io/badge/Latest_Upload-blue?style=for-the-badge&logo=google-drive&logoColor=fff" alt="Latest Upload" valign="middle"></a>'
+    archive_html = f'📚 <a href="#-monthly-archive"><img src="https://img.shields.io/badge/Browse_Archive-purple?style=for-the-badge" alt="Browse Archive" valign="middle"></a>'
 
-    return f"{drive_badge} &nbsp;&nbsp;&nbsp; {star_badge} &nbsp;&nbsp;&nbsp; {latest_badge} &nbsp;&nbsp;&nbsp; {archive_badge}"
+    return f"{drive_html} &nbsp;&nbsp;&nbsp; {star_html} &nbsp;&nbsp;&nbsp; {latest_html} &nbsp;&nbsp;&nbsp; {archive_html}"
 
 def generate_statistics_badges(stats):
     """Generate Shields.io badges for the statistics overview."""
