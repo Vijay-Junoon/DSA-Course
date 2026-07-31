@@ -152,7 +152,7 @@ def generate_learning_progress(uploads):
     """Generate text progress bars for major DSA/programming topics."""
     # List of major topics to show progress
     major_topics = [
-        "Arrays", "Strings", "Hashing", "Linked Lists", "Stacks", "Queues",
+        "Arrays", "Two Pointers", "Strings", "Hashing", "Linked Lists", "Stacks", "Queues",
         "Trees", "BST", "Heaps", "Graphs", "Dynamic Programming", "Greedy",
         "Backtracking", "Bit Manipulation", "SQL", "Python"
     ]
@@ -160,6 +160,7 @@ def generate_learning_progress(uploads):
     # Benchmarks for 100% completion (target number of uploads per topic)
     TOPIC_TARGETS = {
         "Arrays": 8,
+        "Two Pointers": 6,
         "Strings": 6,
         "Hashing": 5,
         "Linked Lists": 8,

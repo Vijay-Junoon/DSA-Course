@@ -3,119 +3,133 @@
   "uploads": [
     {
       "date": "2026-07-31",
-      "topic": "Sliding Window",
-      "category": "Arrays",
-      "difficulty": "Medium",
-      "resource_type": "PDF",
-      "title": "Sliding Window Notes",
-      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
-      "leetcode_id": "3. Longest Substring Without Repeating Characters"
-    },
-    {
-      "date": "2026-07-30",
-      "topic": "Graphs",
-      "category": "Graphs",
+      "topic": "Car Fleet",
+      "category": "Stacks",
       "difficulty": "Medium",
       "resource_type": "Video",
-      "title": "BFS and DFS Video Guide",
-      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
-      "leetcode_id": "200. Number of Islands"
+      "title": "Car Fleet Solution Video",
+      "drive_link": "https://drive.google.com/file/d/1wThpKwZq9GkngnoJU7wVwVwJQy8qYBGL/view?usp=sharing",
+      "leetcode_id": "853. Car Fleet"
     },
     {
       "date": "2026-07-29",
-      "topic": "SQL",
-      "category": "SQL",
-      "difficulty": "Easy",
-      "resource_type": "Notes",
-      "title": "SQL JOINs Cheat Sheet",
-      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing"
+      "topic": "Daily Temperatures",
+      "category": "Stacks",
+      "difficulty": "Medium",
+      "resource_type": "Video",
+      "title": "Daily Temperatures Solution Video",
+      "drive_link": "https://drive.google.com/file/d/1qcStx1iESngepbCHJEUE3hR80yb-kIig/view?usp=sharing",
+      "leetcode_id": "739. Daily Temperatures"
     },
     {
       "date": "2026-07-28",
-      "topic": "Python",
-      "category": "Python",
-      "difficulty": "Easy",
-      "resource_type": "Cheat Sheet",
-      "title": "Python Decorators & Generators",
-      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing"
+      "topic": "Evaluate Reverse Polish Notation",
+      "category": "Stacks",
+      "difficulty": "Medium",
+      "resource_type": "Video",
+      "title": "Evaluate Reverse Polish Notation Solution Video",
+      "drive_link": "https://drive.google.com/file/d/1aeFf-ldpZaupEz8n_gGaYOW96WNzBNii/view?usp=sharing",
+      "leetcode_id": "150. Evaluate Reverse Polish Notation"
     },
     {
       "date": "2026-07-27",
-      "topic": "Dynamic Programming",
-      "category": "Dynamic Programming",
-      "difficulty": "Hard",
-      "resource_type": "Practice Set",
-      "title": "0/1 Knapsack Practice Problems",
-      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
-      "leetcode_id": "416. Partition Equal Subset Sum"
-    },
-    {
-      "date": "2026-07-26",
-      "topic": "Trees",
-      "category": "Trees",
+      "topic": "Valid Parentheses",
+      "category": "Stacks",
       "difficulty": "Easy",
-      "resource_type": "PDF",
-      "title": "Binary Tree Traversals PDF",
-      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
-      "leetcode_id": "102. Binary Tree Level Order Traversal"
+      "resource_type": "Video",
+      "title": "Valid Parentheses Solution Video",
+      "drive_link": "https://drive.google.com/file/d/1vJE593u6qFbMYOJFTkPUinsc50NjUGNl/view?usp=sharing",
+      "leetcode_id": "20. Valid Parentheses"
     },
     {
       "date": "2026-07-24",
-      "topic": "Linked Lists",
-      "category": "Linked Lists",
+      "topic": "Container With Most Water",
+      "category": "Two Pointers",
       "difficulty": "Medium",
-      "resource_type": "Revision Notes",
-      "title": "Fast and Slow Pointer Revision Notes",
-      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
-      "leetcode_id": "141. Linked List Cycle"
-    },
-    {
-      "date": "2026-07-23",
-      "topic": "Linked Lists",
-      "category": "Linked Lists",
-      "difficulty": "Easy",
-      "resource_type": "Notes",
-      "title": "Reverse Linked List Explanation",
-      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
-      "leetcode_id": "206. Reverse Linked List"
+      "resource_type": "Video",
+      "title": "Container With Most Water Solution Video",
+      "drive_link": "https://drive.google.com/file/d/19YwwaQE7dM1N2pAaypPkJvC-9l5tIbcT/view?usp=sharing",
+      "leetcode_id": "11. Container With Most Water"
     },
     {
       "date": "2026-07-22",
-      "topic": "Stacks",
-      "category": "Stacks",
+      "topic": "3Sum",
+      "category": "Two Pointers",
       "difficulty": "Medium",
-      "resource_type": "PDF",
-      "title": "Min Stack Implementation",
-      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
-      "leetcode_id": "155. Min Stack"
+      "resource_type": "Video",
+      "title": "3Sum Solution Video",
+      "drive_link": "https://drive.google.com/file/d/1xr6FotwPOWGbDSyV-93ZgYXKeqh54I0z/view?usp=sharing",
+      "leetcode_id": "15. 3Sum"
     },
     {
-      "date": "2026-07-21",
-      "topic": "Arrays",
+      "date": "2026-07-22",
+      "topic": "Two Sum II",
+      "category": "Two Pointers",
+      "difficulty": "Medium",
+      "resource_type": "Video",
+      "title": "Two Sum II Solution Video",
+      "drive_link": "https://drive.google.com/file/d/1Eiv9g5j9tmpsk41GmQ2z9adz_66qxE3T/view?usp=sharing",
+      "leetcode_id": "167. Two Sum II - Input Array Is Sorted"
+    },
+    {
+      "date": "2026-07-18",
+      "topic": "Valid Palindrome",
+      "category": "Two Pointers",
+      "difficulty": "Easy",
+      "resource_type": "Video",
+      "title": "Valid Palindrome Solution Video",
+      "drive_link": "https://drive.google.com/file/d/1CcbaixMyOqnOHvTI-Cmsn0B76mOBIi2P/view?usp=sharing",
+      "leetcode_id": "125. Valid Palindrome"
+    },
+    {
+      "date": "2026-07-18",
+      "topic": "Product of Array Except Self",
+      "category": "Arrays",
+      "difficulty": "Medium",
+      "resource_type": "Video",
+      "title": "Product of Array Except Self Solution Video",
+      "drive_link": "https://drive.google.com/file/d/1l8Rf2USJ8UMRiboO_AIFVx7G6_g9eovz/view?usp=sharing",
+      "leetcode_id": "238. Product of Array Except Self"
+    },
+    {
+      "date": "2026-07-17",
+      "topic": "Top K Frequent Elements",
+      "category": "Arrays",
+      "difficulty": "Medium",
+      "resource_type": "Video",
+      "title": "Top K Frequent Elements Solution Video",
+      "drive_link": "https://drive.google.com/file/d/15SI1pB-dhVSj9BSkn9m5uoWagd5f8Ptf/view?usp=sharing",
+      "leetcode_id": "347. Top K Frequent Elements"
+    },
+    {
+      "date": "2026-07-15",
+      "topic": "Group Anagrams",
+      "category": "Arrays",
+      "difficulty": "Medium",
+      "resource_type": "Video",
+      "title": "Group Anagrams Solution Video",
+      "drive_link": "https://drive.google.com/file/d/1rECHLrMS4cf075ZmA3HKY1GZlMhBORi_/view?usp=sharing",
+      "leetcode_id": "49. Group Anagrams"
+    },
+    {
+      "date": "2026-07-15",
+      "topic": "Two Sum",
       "category": "Arrays",
       "difficulty": "Easy",
-      "resource_type": "Notes",
-      "title": "Two Sum Analysis",
-      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
+      "resource_type": "Video",
+      "title": "Two Sum Solution Video",
+      "drive_link": "https://drive.google.com/file/d/1VK43ZnKuKMtrmPBzFRpSWmYHVEH5QHda/view?usp=sharing",
       "leetcode_id": "1. Two Sum"
     },
     {
-      "date": "2026-07-20",
-      "topic": "SQL",
-      "category": "SQL",
-      "difficulty": "Medium",
-      "resource_type": "Practice Set",
-      "title": "Subqueries and Window Functions Practice",
-      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing"
-    },
-    {
-      "date": "2026-07-19",
-      "topic": "Python",
-      "category": "Python",
+      "date": "2026-07-13",
+      "topic": "Valid Anagram",
+      "category": "Arrays",
       "difficulty": "Easy",
-      "resource_type": "Notes",
-      "title": "Python List Comprehensions Guide",
-      "drive_link": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing"
+      "resource_type": "Video",
+      "title": "Valid Anagram Solution Video",
+      "drive_link": "https://drive.google.com/file/d/1l_avNvr40QUEHJCb4hfOoG5iv8Kb9OwF/view?usp=sharing",
+      "leetcode_id": "242. Valid Anagram"
     }
   ]
 }
