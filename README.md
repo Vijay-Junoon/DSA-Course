@@ -34,8 +34,8 @@ The 10 most recent study resources uploaded to Google Drive.
 
 | Date | Topic | Category | Resource | Drive Link |
 | :--- | :--- | :--- | :--- | :--- |
-| 12 Sept 2026 | Binary Search | Binary Search | 🟡 Binary Search Solution Video(`704. Binary Search`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1uYQ993NN5041V256ql22-G1TGvsErnZ1/view?usp=drive_link) |
-| 11 Sept 2026 | Largest Rectangle in Histrogram | Stacks | 🟡 Largest Rectangle in Histrogram Solution Video (`84. Largest Rectangle in Histrogram`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1HFTjQYkLz8rnDtHt3kjq4RrW6TguQPZA/view?usp=sharing) |
+| 12 Sept 2026 | Binary Search | Binary Search | 🟢 Binary Search Solution Video(`704. Binary Search`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1uYQ993NN5041V256ql22-G1TGvsErnZ1/view?usp=drive_link) |
+| 11 Sept 2026 | Largest Rectangle in Histrogram | Stacks | 🔴 Largest Rectangle in Histrogram Solution Video (`84. Largest Rectangle in Histrogram`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1HFTjQYkLz8rnDtHt3kjq4RrW6TguQPZA/view?usp=sharing) |
 | 31 Jul 2026 | Car Fleet | Stacks | 🟡 Car Fleet Solution Video (`853. Car Fleet`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1wThpKwZq9GkngnoJU7wVwVwJQy8qYBGL/view?usp=sharing) |
 | 29 Jul 2026 | Daily Temperatures | Stacks | 🟡 Daily Temperatures Solution Video (`739. Daily Temperatures`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1qcStx1iESngepbCHJEUE3hR80yb-kIig/view?usp=sharing) |
 | 28 Jul 2026 | Evaluate Reverse Polish Notation | Stacks | 🟡 Evaluate Reverse Polish Notation Solution Video (`150. Evaluate Reverse Polish Notation`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1aeFf-ldpZaupEz8n_gGaYOW96WNzBNii/view?usp=sharing) |
