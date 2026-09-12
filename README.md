@@ -34,7 +34,8 @@ The 10 most recent study resources uploaded to Google Drive.
 
 | Date | Topic | Category | Resource | Drive Link |
 | :--- | :--- | :--- | :--- | :--- |
-| 11 Sept 2026 | Largest Rectangle in Histrogram | Stacks | 🟡 Largest Rectangle in Histrogram Solution Video (`84. Largest Rectangle in Histrogram Solution`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1HFTjQYkLz8rnDtHt3kjq4RrW6TguQPZA/view?usp=sharing) |
+| 12 Sept 2026 | Binary Search | Binary Search | 🟡 Binary Search Solution Video(`704. Binary Search`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1uYQ993NN5041V256ql22-G1TGvsErnZ1/view?usp=drive_link) |
+| 11 Sept 2026 | Largest Rectangle in Histrogram | Stacks | 🟡 Largest Rectangle in Histrogram Solution Video (`84. Largest Rectangle in Histrogram`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1HFTjQYkLz8rnDtHt3kjq4RrW6TguQPZA/view?usp=sharing) |
 | 31 Jul 2026 | Car Fleet | Stacks | 🟡 Car Fleet Solution Video (`853. Car Fleet`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1wThpKwZq9GkngnoJU7wVwVwJQy8qYBGL/view?usp=sharing) |
 | 29 Jul 2026 | Daily Temperatures | Stacks | 🟡 Daily Temperatures Solution Video (`739. Daily Temperatures`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1qcStx1iESngepbCHJEUE3hR80yb-kIig/view?usp=sharing) |
 | 28 Jul 2026 | Evaluate Reverse Polish Notation | Stacks | 🟡 Evaluate Reverse Polish Notation Solution Video (`150. Evaluate Reverse Polish Notation`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1aeFf-ldpZaupEz8n_gGaYOW96WNzBNii/view?usp=sharing) |
@@ -53,8 +54,8 @@ The 10 most recent study resources uploaded to Google Drive.
 A visual indicator of coverage across major topics. Progress is calculated based on resources covered in each category relative to typical target benchmarks.
 
 ```text
-Arrays               ██████░░░░ 62% (5/8)
-Two Pointers         ██████░░░░ 66% (4/6)
+Arrays               ██████████ 100% (8/8)
+Two Pointers         ██████████ 100% (6/6)
 Strings              ░░░░░░░░░░ 0% (0/6)
 Hashing              ░░░░░░░░░░ 0% (0/5)
 Linked Lists         ░░░░░░░░░░ 0% (0/8)
@@ -68,8 +69,6 @@ Dynamic Programming  ░░░░░░░░░░ 0% (0/10)
 Greedy               ░░░░░░░░░░ 0% (0/6)
 Backtracking         ░░░░░░░░░░ 0% (0/5)
 Bit Manipulation     ░░░░░░░░░░ 0% (0/4)
-SQL                  ░░░░░░░░░░ 0% (0/10)
-Python               ░░░░░░░░░░ 0% (0/10)
 ```
 
 ---
@@ -85,6 +84,7 @@ Detailed breakdowns of topics, difficulty levels, and types of resources.
 ### 📚 Topic Statistics
 | Topic | Resources |
 | :--- | ---: |
+| Binary Search | 1 |
 | Largest Rectangle in Histrogram | 1 |
 | Car Fleet | 1 |
 | Daily Temperatures | 1 |
@@ -107,7 +107,7 @@ Detailed breakdowns of topics, difficulty levels, and types of resources.
 ### ⚡ Difficulty Distribution
 | Difficulty | Count |
 | :--- | ---: |
-| 🟢 Easy | 4 |
+| 🟢 Easy | 5 |
 | 🟡 Medium | 9 |
 | 🔴 Hard | 1 |
 
@@ -118,7 +118,7 @@ Detailed breakdowns of topics, difficulty levels, and types of resources.
 ### 📂 Resource Type Distribution
 | Resource Type | Count |
 | :--- | ---: |
-| Video | 13 |
+| Video | 15 |
 
 
 </td>
@@ -151,8 +151,10 @@ A visual calendar of uploads over the past 30 days to show consistency at a glan
 Access resources grouped by month. Click to expand.
 
 <details>
-<summary>📅 July 2026 (13 resources)</summary>
+<summary>📅 July 2026 (15 resources)</summary>
 
+- **12 Sept** — Binary Search Solution Video (Binary Search [Easy]) - LeetCode: 704. Binary Search — [🔗 Drive Link](https://drive.google.com/file/d/1uYQ993NN5041V256ql22-G1TGvsErnZ1/view?usp=drive_link)
+- **11 Sept** — Largest Rectangle in Histrogram Solution Video (Stacks [Hard]) - LeetCode: 84. Largest Rectangle in Histrogram — [🔗 Drive Link](https://drive.google.com/file/d/1HFTjQYkLz8rnDtHt3kjq4RrW6TguQPZA/view?usp=sharing)
 - **31 Jul** — Car Fleet Solution Video (Stacks [Medium]) - LeetCode: 853. Car Fleet — [🔗 Drive Link](https://drive.google.com/file/d/1wThpKwZq9GkngnoJU7wVwVwJQy8qYBGL/view?usp=sharing)
 - **29 Jul** — Daily Temperatures Solution Video (Stacks [Medium]) - LeetCode: 739. Daily Temperatures — [🔗 Drive Link](https://drive.google.com/file/d/1qcStx1iESngepbCHJEUE3hR80yb-kIig/view?usp=sharing)
 - **28 Jul** — Evaluate Reverse Polish Notation Solution Video (Stacks [Medium]) - LeetCode: 150. Evaluate Reverse Polish Notation — [🔗 Drive Link](https://drive.google.com/file/d/1aeFf-ldpZaupEz8n_gGaYOW96WNzBNii/view?usp=sharing)
@@ -184,5 +186,5 @@ Access resources grouped by month. Click to expand.
 ---
 
 <p align="center">
-  Built automatically with Python ❤️ | Last updated: 31 Jul 2026 11:48 PM IST
+  Built automatically with Python ❤️ | Last updated: 12 Sept 2026 1:55 PM IST
 </p>
