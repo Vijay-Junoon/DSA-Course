@@ -90,8 +90,6 @@ def generate_statistics_badges(stats):
         ("Videos Shared", f"{stats['total_videos']}", "blueviolet", "youtube"),
         ("Notes Shared", f"{stats['total_notes']}", "yellow", "read-the-docs"),
         ("LeetCode Solved", f"{stats['leetcode_count']}", "yellowgreen", "leetcode"),
-        ("SQL Resources", f"{stats['total_sql']}", "lightblue", "mysql"),
-        ("Python Resources", f"{stats['total_python']}", "lightgrey", "python"),
         ("Topics Covered", f"{stats['total_topics']}", "purple", "bookstack"),
     ]
 
@@ -107,8 +105,7 @@ def generate_statistics_badges(stats):
         "| :---: | :---: | :---: |\n"
         f"| {badge_mds[0]} | {badge_mds[1]} | {badge_mds[2]} |\n"
         f"| {badge_mds[3]} | {badge_mds[4]} | {badge_mds[5]} |\n"
-        f"| {badge_mds[6]} | {badge_mds[7]} | {badge_mds[8]} |\n"
-        f"| {badge_mds[9]} | {badge_mds[10]} | |"
+        f"| {badge_mds[6]} | {badge_mds[7]} | {badge_mds[8]} |"
     )
     return grid
 
@@ -152,20 +149,20 @@ def generate_learning_progress(uploads):
     """Generate text progress bars for major DSA/programming topics."""
     # List of major topics to show progress
     major_topics = [
-        "Arrays", "Two Pointers", "Strings", "Hashing", "Linked Lists", "Stacks", "Queues",
+        "Arrays", "Two Pointers", "Sliding Window", "Binary Search", "Stacks", "Queues", "Linked Lists",
         "Trees", "BST", "Heaps", "Graphs", "Dynamic Programming", "Greedy",
-        "Backtracking", "Bit Manipulation", "SQL", "Python"
+        "Backtracking", "Bit Manipulation"
     ]
 
     # Benchmarks for 100% completion (target number of uploads per topic)
     TOPIC_TARGETS = {
         "Arrays": 8,
         "Two Pointers": 6,
-        "Strings": 6,
-        "Hashing": 5,
-        "Linked Lists": 8,
+        "Sliding Window": 6,
+        "Binary Search": 7,
         "Stacks": 5,
         "Queues": 5,
+        "Linked Lists": 8,
         "Trees": 8,
         "BST": 4,
         "Heaps": 4,
@@ -173,9 +170,7 @@ def generate_learning_progress(uploads):
         "Dynamic Programming": 10,
         "Greedy": 6,
         "Backtracking": 5,
-        "Bit Manipulation": 4,
-        "SQL": 10,
-        "Python": 10
+        "Bit Manipulation": 4
     }
 
     # Count resources per topic (case-insensitive categorization mapping)

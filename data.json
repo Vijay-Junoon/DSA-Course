@@ -2,6 +2,36 @@
   "drive_folder": "https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing",
   "uploads": [
     {
+      "date": "2026-09-13",
+      "topic": "Search a 2D Matrix",
+      "category": "Binary Search",
+      "difficulty": "Medium",
+      "resource_type": "Video",
+      "title": "Search a 2D Matrix Solution Video",
+      "drive_link": "https://drive.google.com/file/d/14vRuq75Ic4IqSf0Kjklu1oIKubteBmFo/view?usp=drive_link",
+      "leetcode_id": "74. Search a 2D Matrix"
+    },
+    {
+      "date": "2026-09-12",
+      "topic": "Binary Search",
+      "category": "Binary Search",
+      "difficulty": "Easy",
+      "resource_type": "Video",
+      "title": "Binary Search Solution Video",
+      "drive_link": "https://drive.google.com/file/d/1uYQ993NN5041V256ql22-G1TGvsErnZ1/view?usp=drive_link",
+      "leetcode_id": "704. Binary Search"
+    },
+    {
+      "date": "2026-09-11",
+      "topic": "Largest Rectangle in Histogram",
+      "category": "Stacks",
+      "difficulty": "Hard",
+      "resource_type": "Video",
+      "title": "Largest Rectangle in Histogram Solution Video",
+      "drive_link": "https://drive.google.com/file/d/1HFTjQYkLz8rnDtHt3kjq4RrW6TguQPZA/view?usp=sharing",
+      "leetcode_id": "84. Largest Rectangle in Histogram"
+    },
+    {
       "date": "2026-07-31",
       "topic": "Car Fleet",
       "category": "Stacks",
