@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  📂 <a href="https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Open_Google_Drive-12878D?style=for-the-badge&logo=google-drive&logoColor=fff" alt="Google Drive" valign="middle"></a> &nbsp;&nbsp;&nbsp; ⭐ <a href="https://github.com/Vijay-Junoon/DSA-Course" target="_blank"><img src="https://img.shields.io/badge/Star_Repository-orange?style=for-the-badge&logo=github&logoColor=fff" alt="Star Repo" valign="middle"></a> &nbsp;&nbsp;&nbsp; 📅 <a href="https://drive.google.com/file/d/14vRuq75Ic4IqSf0Kjklu1oIKubteBmFo/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Latest_Upload-blue?style=for-the-badge&logo=google-drive&logoColor=fff" alt="Latest Upload" valign="middle"></a> &nbsp;&nbsp;&nbsp; 📚 <a href="#-monthly-archive"><img src="https://img.shields.io/badge/Browse_Archive-purple?style=for-the-badge" alt="Browse Archive" valign="middle"></a>
+  📂 <a href="https://drive.google.com/drive/folders/1X-0tgomSwFVzVOD9lAM-I4u84peYShJZ?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Open_Google_Drive-12878D?style=for-the-badge&logo=google-drive&logoColor=fff" alt="Google Drive" valign="middle"></a> &nbsp;&nbsp;&nbsp; ⭐ <a href="https://github.com/Vijay-Junoon/DSA-Course" target="_blank"><img src="https://img.shields.io/badge/Star_Repository-orange?style=for-the-badge&logo=github&logoColor=fff" alt="Star Repo" valign="middle"></a> &nbsp;&nbsp;&nbsp; 📅 <a href="https://drive.google.com/file/d/1FogFU9uLWwPEeqzuXM9tIuPqdIDdOO92/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Latest_Upload-blue?style=for-the-badge&logo=google-drive&logoColor=fff" alt="Latest Upload" valign="middle"></a> &nbsp;&nbsp;&nbsp; 📚 <a href="#-monthly-archive"><img src="https://img.shields.io/badge/Browse_Archive-purple?style=for-the-badge" alt="Browse Archive" valign="middle"></a>
 </p>
 
 ---
@@ -21,9 +21,9 @@ Here is a summary of consistency, topics covered, and types of resources uploade
 
 | | | |
 | :---: | :---: | :---: |
-| ![Total Upload Days](https://img.shields.io/badge/Total%20Upload%20Days-13%20Days-blue?style=flat-square&logo=calendar) | ![Current Streak](https://img.shields.io/badge/Current%20Streak-3%20Days-orange?style=flat-square&logo=fire) | ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-3%20Days-red?style=flat-square&logo=trophy) |
-| ![Total Resources](https://img.shields.io/badge/Total%20Resources-16-brightgreen?style=flat-square&logo=google-drive) | ![PDFs Shared](https://img.shields.io/badge/PDFs%20Shared-0-critical?style=flat-square&logo=adobe-acrobat-reader) | ![Videos Shared](https://img.shields.io/badge/Videos%20Shared-16-blueviolet?style=flat-square&logo=youtube) |
-| ![Notes Shared](https://img.shields.io/badge/Notes%20Shared-0-yellow?style=flat-square&logo=read-the-docs) | ![LeetCode Solved](https://img.shields.io/badge/LeetCode%20Solved-16-yellowgreen?style=flat-square&logo=leetcode) | ![Topics Covered](https://img.shields.io/badge/Topics%20Covered-16-purple?style=flat-square&logo=bookstack) |
+| ![Total Upload Days](https://img.shields.io/badge/Total%20Upload%20Days-14%20Days-blue?style=flat-square&logo=calendar) | ![Current Streak](https://img.shields.io/badge/Current%20Streak-4%20Days-orange?style=flat-square&logo=fire) | ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-4%20Days-red?style=flat-square&logo=trophy) |
+| ![Total Resources](https://img.shields.io/badge/Total%20Resources-17-brightgreen?style=flat-square&logo=google-drive) | ![PDFs Shared](https://img.shields.io/badge/PDFs%20Shared-0-critical?style=flat-square&logo=adobe-acrobat-reader) | ![Videos Shared](https://img.shields.io/badge/Videos%20Shared-17-blueviolet?style=flat-square&logo=youtube) |
+| ![Notes Shared](https://img.shields.io/badge/Notes%20Shared-0-yellow?style=flat-square&logo=read-the-docs) | ![LeetCode Solved](https://img.shields.io/badge/LeetCode%20Solved-17-yellowgreen?style=flat-square&logo=leetcode) | ![Topics Covered](https://img.shields.io/badge/Topics%20Covered-17-purple?style=flat-square&logo=bookstack) |
 
 ---
 
@@ -33,6 +33,7 @@ The 10 most recent study resources uploaded to Google Drive.
 
 | Date | Topic | Category | Resource | Drive Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 14 Sep 2026 | Koko Eating Bananas | Binary Search | 🟡 Koko Eating Bananas Solution Video (`875. Koko Eating Bananas`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1FogFU9uLWwPEeqzuXM9tIuPqdIDdOO92/view?usp=drive_link) |
 | 13 Sep 2026 | Search a 2D Matrix | Binary Search | 🟡 Search a 2D Matrix Solution Video (`74. Search a 2D Matrix`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/14vRuq75Ic4IqSf0Kjklu1oIKubteBmFo/view?usp=drive_link) |
 | 12 Sep 2026 | Binary Search | Binary Search | 🟢 Binary Search Solution Video (`704. Binary Search`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1uYQ993NN5041V256ql22-G1TGvsErnZ1/view?usp=drive_link) |
 | 11 Sep 2026 | Largest Rectangle in Histogram | Stacks | 🔴 Largest Rectangle in Histogram Solution Video (`84. Largest Rectangle in Histogram`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1HFTjQYkLz8rnDtHt3kjq4RrW6TguQPZA/view?usp=sharing) |
@@ -42,7 +43,6 @@ The 10 most recent study resources uploaded to Google Drive.
 | 27 Jul 2026 | Valid Parentheses | Stacks | 🟢 Valid Parentheses Solution Video (`20. Valid Parentheses`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1vJE593u6qFbMYOJFTkPUinsc50NjUGNl/view?usp=sharing) |
 | 24 Jul 2026 | Container With Most Water | Two Pointers | 🟡 Container With Most Water Solution Video (`11. Container With Most Water`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/19YwwaQE7dM1N2pAaypPkJvC-9l5tIbcT/view?usp=sharing) |
 | 22 Jul 2026 | 3Sum | Two Pointers | 🟡 3Sum Solution Video (`15. 3Sum`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1xr6FotwPOWGbDSyV-93ZgYXKeqh54I0z/view?usp=sharing) |
-| 22 Jul 2026 | Two Sum II | Two Pointers | 🟡 Two Sum II Solution Video (`167. Two Sum II - Input Array Is Sorted`) *(Video)* | [🔗 View Resource](https://drive.google.com/file/d/1Eiv9g5j9tmpsk41GmQ2z9adz_66qxE3T/view?usp=sharing) |
 
 ---
 
@@ -54,7 +54,7 @@ A visual indicator of coverage across major topics. Progress is calculated based
 Arrays               ██████░░░░ 62% (5/8)
 Two Pointers         ██████░░░░ 66% (4/6)
 Sliding Window       ░░░░░░░░░░ 0% (0/6)
-Binary Search        ██░░░░░░░░ 28% (2/7)
+Binary Search        ████░░░░░░ 42% (3/7)
 Stacks               ██████████ 100% (5/5)
 Queues               ░░░░░░░░░░ 0% (0/5)
 Linked Lists         ░░░░░░░░░░ 0% (0/8)
@@ -81,6 +81,7 @@ Detailed breakdowns of topics, difficulty levels, and types of resources.
 ### 📚 Topic Statistics
 | Topic | Resources |
 | :--- | ---: |
+| Koko Eating Bananas | 1 |
 | Search a 2D Matrix | 1 |
 | Binary Search | 1 |
 | Largest Rectangle in Histogram | 1 |
@@ -106,7 +107,7 @@ Detailed breakdowns of topics, difficulty levels, and types of resources.
 | Difficulty | Count |
 | :--- | ---: |
 | 🟢 Easy | 5 |
-| 🟡 Medium | 10 |
+| 🟡 Medium | 11 |
 | 🔴 Hard | 1 |
 
 
@@ -116,7 +117,7 @@ Detailed breakdowns of topics, difficulty levels, and types of resources.
 ### 📂 Resource Type Distribution
 | Resource Type | Count |
 | :--- | ---: |
-| Video | 16 |
+| Video | 17 |
 
 
 </td>
@@ -130,16 +131,16 @@ Detailed breakdowns of topics, difficulty levels, and types of resources.
 A visual calendar of uploads over the past 30 days to show consistency at a glance.
 
 ```text
-⬜ Aug 15          ⬜ Aug 16          ⬜ Aug 17
-⬜ Aug 18          ⬜ Aug 19          ⬜ Aug 20
-⬜ Aug 21          ⬜ Aug 22          ⬜ Aug 23
-⬜ Aug 24          ⬜ Aug 25          ⬜ Aug 26
-⬜ Aug 27          ⬜ Aug 28          ⬜ Aug 29
-⬜ Aug 30          ⬜ Aug 31          ⬜ Sep 01
-⬜ Sep 02          ⬜ Sep 03          ⬜ Sep 04
-⬜ Sep 05          ⬜ Sep 06          ⬜ Sep 07
-⬜ Sep 08          ⬜ Sep 09          ⬜ Sep 10
-✅ Sep 11          ✅ Sep 12          ✅ Sep 13
+⬜ Aug 16          ⬜ Aug 17          ⬜ Aug 18
+⬜ Aug 19          ⬜ Aug 20          ⬜ Aug 21
+⬜ Aug 22          ⬜ Aug 23          ⬜ Aug 24
+⬜ Aug 25          ⬜ Aug 26          ⬜ Aug 27
+⬜ Aug 28          ⬜ Aug 29          ⬜ Aug 30
+⬜ Aug 31          ⬜ Sep 01          ⬜ Sep 02
+⬜ Sep 03          ⬜ Sep 04          ⬜ Sep 05
+⬜ Sep 06          ⬜ Sep 07          ⬜ Sep 08
+⬜ Sep 09          ⬜ Sep 10          ✅ Sep 11
+✅ Sep 12          ✅ Sep 13          ✅ Sep 14
 ```
 
 ---
@@ -149,8 +150,9 @@ A visual calendar of uploads over the past 30 days to show consistency at a glan
 Access resources grouped by month. Click to expand.
 
 <details>
-<summary>📅 September 2026 (3 resources)</summary>
+<summary>📅 September 2026 (4 resources)</summary>
 
+- **14 Sep** — Koko Eating Bananas Solution Video (Binary Search [Medium]) - LeetCode: 875. Koko Eating Bananas — [🔗 Drive Link](https://drive.google.com/file/d/1FogFU9uLWwPEeqzuXM9tIuPqdIDdOO92/view?usp=drive_link)
 - **13 Sep** — Search a 2D Matrix Solution Video (Binary Search [Medium]) - LeetCode: 74. Search a 2D Matrix — [🔗 Drive Link](https://drive.google.com/file/d/14vRuq75Ic4IqSf0Kjklu1oIKubteBmFo/view?usp=drive_link)
 - **12 Sep** — Binary Search Solution Video (Binary Search [Easy]) - LeetCode: 704. Binary Search — [🔗 Drive Link](https://drive.google.com/file/d/1uYQ993NN5041V256ql22-G1TGvsErnZ1/view?usp=drive_link)
 - **11 Sep** — Largest Rectangle in Histogram Solution Video (Stacks [Hard]) - LeetCode: 84. Largest Rectangle in Histogram — [🔗 Drive Link](https://drive.google.com/file/d/1HFTjQYkLz8rnDtHt3kjq4RrW6TguQPZA/view?usp=sharing)
@@ -190,5 +192,5 @@ Access resources grouped by month. Click to expand.
 ---
 
 <p align="center">
-  Built automatically with Python ❤️ | Last updated: 13 Sep 2026 06:37 AM IST
+  Built automatically with Python ❤️ | Last updated: 14 Sep 2026 09:36 AM IST
 </p>
